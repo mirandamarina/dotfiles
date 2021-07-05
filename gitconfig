@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = mirandaxmarina@gmail.com
+	name = Marina Miranda
